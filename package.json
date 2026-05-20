@@ -1,0 +1,22 @@
+{
+  "name": "vibe-cafe-finance-all-files",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "xlsx": "latest",
+    "pdfjs-dist": "latest",
+    "mammoth": "latest",
+    "papaparse": "latest"
+  },
+  "devDependencies": {}
+}
